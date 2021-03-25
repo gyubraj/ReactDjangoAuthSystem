@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddc0d980-1fff-4e3a-99cb-bdd780b16d04" name="Default Changelist" comment="commit">
+      <changelist_data name="" email="" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/gyubraj/Auth-System-React-Django.git" />
+        <option value="https://github.com/gyubraj/React-Django-Auth-System.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ov4ugZx6c6foWqaRjylWr536Zd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddc0d980-1fff-4e3a-99cb-bdd780b16d04" name="Default Changelist" comment="" />
+      <created>1614153954836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614153954836</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1615121457026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615121457026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1615180172346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615180172346" />
+    <state x="640" y="307" width="258" height="210" key="Github.ShareDialog" timestamp="1615123865498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="307" width="258" height="210" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1615123865498" />
+    <state x="637" y="112" key="Github.UntrackedFilesDialog" timestamp="1615123873801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="112" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1615123873801" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1615124587022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615124587022" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1615120884388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1615120884388" />
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1615180063288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1615180063288" />
+    <state x="596" y="147" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1615124644303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="596" y="147" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1615124644303" />
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615121649895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1615121649895" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1614776330572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1614776330572" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-2" timestamp="1614776330572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1614776330572" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-3" timestamp="1614776330572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1614776330572" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1615017157481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615017157481" />
+  </component>
+</project>
